@@ -1,0 +1,445 @@
+validation : 96. side_20window_20damage.jpg
+validation : 96. side_20window_20damage.jpg
+validation : 1521089197200_G131H4S76.1_1.jpg
+validation : 5. depositphotos_7921406_s-2015.jpg
+validation : depositphotos_5411734_stock_photo_broken_car_windscreen.jpg
+validation : 0_MPM_AIRPORT_PARKING_SMASH_AND_GRAB_THIEF_1_1024x680.jpg
+validation : 5186219_stock_photo_broken_windscreen.jpg
+validation : 11. hail-storm-damaged-windshield.jpg
+validation : kırık_cam.jpg
+validation : 0081.JPEG
+validation : 0101.JPEG
+validation : 0090.JPEG
+validation : 0011.JPEG
+validation : 0555.JPEG
+validation : 187550125.jpg
+validation : 219. stock-photo-broken-car-headlight-63892840.jpg
+validation : 254. broken-front-right-car-headlight-got-accident-close-up-74782069.jpg
+validation : 126. stock-photo-closeup-of-broken-head-lamp-of-a-vehicle-in-an-road-accident-1091864618.jpg
+validation : KBC3GM.jpg
+validation : 282. dff0wao.jpg
+validation : 500_F_211008666_PL9R4092iWDIDkh5cwY2pJqCsBNmvGFA.jpg
+validation : broken_car_headlight_pierced_battle_automotive_headlamp_40921718.jpg
+validation : 742. headlight-lens-cover-broken-cracked.jpg
+validation : 0265.jpg
+validation : 0261.jpg
+validation : 0301.jpg
+validation : 0317.jpg
+validation : 0166.jpg
+validation : 0004.jpg
+validation : 0219.jpg
+validation : 0190.jpg
+validation : 0226.jpg
+validation : 0157.jpg
+validation : 0119.jpg
+validation : 0284.jpg
+validation : 0324.jpg
+validation : 0096.jpg
+validation : damage785.jpg
+validation : damage744.jpg
+validation : damage977.jpg
+validation : damage740.jpg
+validation : damage1273.jpg
+validation : damage1270.jpg
+validation : damage1160.jpg
+validation : damage1029.jpg
+validation : damage1228.jpg
+validation : damage1239.jpg
+validation : damage937.jpg
+validation : damage1357.jpg
+validation : damage856.jpg
+validation : damage1222.jpg
+validation : damage1022.jpg
+validation : damage868.jpg
+validation : damage869.jpg
+validation : damage921.jpg
+validation : damage935.jpg
+validation : damage851.jpg
+validation : damage879.jpg
+validation : damage1230.jpg
+validation : damage809.jpg
+validation : damage771.jpg
+validation : damage1130.jpg
+validation : damage945.jpg
+validation : damage1287.jpg
+validation : damage579.jpg
+validation : 11. car-bumper-dent.jpg
+validation : damage152.jpg
+validation : 21. imag0019_zps28f1f82d.jpg
+validation : 56. car-dent.jpg
+validation : 18_97a0001fd1a54da4b05c54829d4ebf10.jpg
+validation : 30_3498ba968b4543449e5f42fb9a5622c2.jpg
+validation : 88. dentthumb1.jpg
+validation : 9_d6d6beeea7f34bcf82f155a45e3a98d7.jpg
+validation : damage1142.jpg
+validation : 33.jpg
+validation : 362. paintless.jpg
+validation : 157. 091.jpg
+validation : damage954.jpg
+validation : 98. 06-1-17-2542-2-1.jpg
+validation : 6.jpg
+validation : 71. shutterstock_1106281790.jpg
+validation : 121. toyota_corrola_bumper_before_13612216371.19125105.jpg
+validation : 37. scuffs-website-photos-info-0352.jpg
+validation : 6. fgbk657hqdlx9x7.large.jpg
+validation : 7. fgbk657hqdlx9x7.large.jpg
+validation : 65. scratch-removal.jpg
+validation : 41. odyssey-side-scratches.jpg
+validation : 59. maxresdefault.jpg
+validation : 10. how_to_fix_car_scratches.jpg
+validation : 2. carscratch.jpg
+validation : 45. deep+scratch+with+dent.jpg
+validation : 55. car-with-scrathces.jpg
+validation : 17. scratch-2.jpg
+validation : 27. light+scratch.jpg
+validation : 63. scratch-removal.jpeg
+validation : 0089.JPEG
+validation : 0034 (2).JPEG
+validation : 207. main-qimg-7dcd95ff838fd6c04240d03bf16e0484-38440.jpg
+validation : 130. chrysler-300-door-damage-1024x683.jpg
+validation : 2. maxresdefault(1).jpg
+validation : damage1151(1).jpg
+validation : damage1325.jpg
+validation : 0075.jpeg
+validation : 0188.JPEG
+validation : 0265.JPEG
+validation : 0159.JPEG
+validation : b2da7eddf8dbe9c593bd0d6e224730ba1cb8e1bf.jpg
+validation : J4YRKC.jpg
+validation : dust_back_car_light_accident_450w_458370916.jpg
+validation : images (1).jpeg
+validation : 0474.JPEG
+validation : 0155.JPEG
+validation : 96. side_20window_20damage.jpg
+validation : 1521089197200_G131H4S76.1_1.jpg
+validation : 5. depositphotos_7921406_s-2015.jpg
+validation : depositphotos_5411734_stock_photo_broken_car_windscreen.jpg
+validation : 0_MPM_AIRPORT_PARKING_SMASH_AND_GRAB_THIEF_1_1024x680.jpg
+validation : 5186219_stock_photo_broken_windscreen.jpg
+validation : 11. hail-storm-damaged-windshield.jpg
+validation : kırık_cam.jpg
+validation : 0081.JPEG
+validation : 0101.JPEG
+validation : 0090.JPEG
+validation : 0011.JPEG
+validation : 0555.JPEG
+validation : 187550125.jpg
+validation : 219. stock-photo-broken-car-headlight-63892840.jpg
+validation : 254. broken-front-right-car-headlight-got-accident-close-up-74782069.jpg
+validation : 126. stock-photo-closeup-of-broken-head-lamp-of-a-vehicle-in-an-road-accident-1091864618.jpg
+validation : KBC3GM.jpg
+validation : 282. dff0wao.jpg
+validation : 500_F_211008666_PL9R4092iWDIDkh5cwY2pJqCsBNmvGFA.jpg
+validation : broken_car_headlight_pierced_battle_automotive_headlamp_40921718.jpg
+validation : 742. headlight-lens-cover-broken-cracked.jpg
+validation : 0265.jpg
+validation : 0261.jpg
+validation : 0301.jpg
+validation : 0317.jpg
+validation : 0166.jpg
+validation : 0004.jpg
+validation : 0219.jpg
+validation : 0190.jpg
+validation : 0226.jpg
+validation : 0157.jpg
+validation : 0119.jpg
+validation : 0284.jpg
+validation : 0324.jpg
+validation : 0096.jpg
+validation : damage785.jpg
+validation : damage744.jpg
+validation : damage977.jpg
+validation : damage740.jpg
+validation : damage1273.jpg
+validation : damage1270.jpg
+validation : damage1160.jpg
+validation : damage1029.jpg
+validation : damage1228.jpg
+validation : damage1239.jpg
+validation : damage937.jpg
+validation : damage1357.jpg
+validation : damage856.jpg
+validation : damage1222.jpg
+validation : damage1022.jpg
+validation : damage868.jpg
+validation : damage869.jpg
+validation : damage921.jpg
+validation : damage935.jpg
+validation : damage851.jpg
+validation : damage879.jpg
+validation : damage1230.jpg
+validation : damage809.jpg
+validation : damage771.jpg
+validation : damage1130.jpg
+validation : damage945.jpg
+validation : damage1287.jpg
+validation : damage579.jpg
+validation : 11. car-bumper-dent.jpg
+validation : damage152.jpg
+validation : 21. imag0019_zps28f1f82d.jpg
+validation : 56. car-dent.jpg
+validation : 18_97a0001fd1a54da4b05c54829d4ebf10.jpg
+validation : 30_3498ba968b4543449e5f42fb9a5622c2.jpg
+validation : 88. dentthumb1.jpg
+validation : 9_d6d6beeea7f34bcf82f155a45e3a98d7.jpg
+validation : damage1142.jpg
+validation : 33.jpg
+validation : 362. paintless.jpg
+validation : 157. 091.jpg
+validation : damage954.jpg
+validation : 98. 06-1-17-2542-2-1.jpg
+validation : 6.jpg
+validation : 71. shutterstock_1106281790.jpg
+validation : 121. toyota_corrola_bumper_before_13612216371.19125105.jpg
+validation : 37. scuffs-website-photos-info-0352.jpg
+validation : 6. fgbk657hqdlx9x7.large.jpg
+validation : 7. fgbk657hqdlx9x7.large.jpg
+validation : 65. scratch-removal.jpg
+validation : 41. odyssey-side-scratches.jpg
+validation : 59. maxresdefault.jpg
+validation : 10. how_to_fix_car_scratches.jpg
+validation : 2. carscratch.jpg
+validation : 45. deep+scratch+with+dent.jpg
+validation : 55. car-with-scrathces.jpg
+validation : 17. scratch-2.jpg
+validation : 27. light+scratch.jpg
+validation : 63. scratch-removal.jpeg
+validation : 0089.JPEG
+validation : 0034 (2).JPEG
+validation : 207. main-qimg-7dcd95ff838fd6c04240d03bf16e0484-38440.jpg
+validation : 130. chrysler-300-door-damage-1024x683.jpg
+validation : 2. maxresdefault(1).jpg
+validation : damage1151(1).jpg
+validation : damage1325.jpg
+validation : 0075.jpeg
+validation : 0188.JPEG
+validation : 0265.JPEG
+validation : 0159.JPEG
+validation : b2da7eddf8dbe9c593bd0d6e224730ba1cb8e1bf.jpg
+validation : J4YRKC.jpg
+validation : dust_back_car_light_accident_450w_458370916.jpg
+validation : images (1).jpeg
+validation : 0474.JPEG
+validation : 0155.JPEG
+validation : 96. side_20window_20damage.jpg
+validation : 1521089197200_G131H4S76.1_1.jpg
+validation : 5. depositphotos_7921406_s-2015.jpg
+validation : depositphotos_5411734_stock_photo_broken_car_windscreen.jpg
+validation : 0_MPM_AIRPORT_PARKING_SMASH_AND_GRAB_THIEF_1_1024x680.jpg
+validation : 5186219_stock_photo_broken_windscreen.jpg
+validation : 11. hail-storm-damaged-windshield.jpg
+validation : kırık_cam.jpg
+validation : 0081.JPEG
+validation : 0101.JPEG
+validation : 0090.JPEG
+validation : 0011.JPEG
+validation : 0555.JPEG
+validation : 187550125.jpg
+validation : 219. stock-photo-broken-car-headlight-63892840.jpg
+validation : 254. broken-front-right-car-headlight-got-accident-close-up-74782069.jpg
+validation : 126. stock-photo-closeup-of-broken-head-lamp-of-a-vehicle-in-an-road-accident-1091864618.jpg
+validation : KBC3GM.jpg
+validation : 282. dff0wao.jpg
+validation : 500_F_211008666_PL9R4092iWDIDkh5cwY2pJqCsBNmvGFA.jpg
+validation : broken_car_headlight_pierced_battle_automotive_headlamp_40921718.jpg
+validation : 742. headlight-lens-cover-broken-cracked.jpg
+validation : 0265.jpg
+validation : 0261.jpg
+validation : 0301.jpg
+validation : 0317.jpg
+validation : 0166.jpg
+validation : 0004.jpg
+validation : 0219.jpg
+validation : 0190.jpg
+validation : 0226.jpg
+validation : 0157.jpg
+validation : 0119.jpg
+validation : 0284.jpg
+validation : 0324.jpg
+validation : 0096.jpg
+validation : damage785.jpg
+validation : damage744.jpg
+validation : damage977.jpg
+validation : damage740.jpg
+validation : damage1273.jpg
+validation : damage1270.jpg
+validation : damage1160.jpg
+validation : damage1029.jpg
+validation : damage1228.jpg
+validation : damage1239.jpg
+validation : damage937.jpg
+validation : damage1357.jpg
+validation : damage856.jpg
+validation : damage1222.jpg
+validation : damage1022.jpg
+validation : damage868.jpg
+validation : damage869.jpg
+validation : damage921.jpg
+validation : damage935.jpg
+validation : damage851.jpg
+validation : damage879.jpg
+validation : damage1230.jpg
+validation : damage809.jpg
+validation : damage771.jpg
+validation : damage1130.jpg
+validation : damage945.jpg
+validation : damage1287.jpg
+validation : damage579.jpg
+validation : 11. car-bumper-dent.jpg
+validation : damage152.jpg
+validation : 21. imag0019_zps28f1f82d.jpg
+validation : 56. car-dent.jpg
+validation : 18_97a0001fd1a54da4b05c54829d4ebf10.jpg
+validation : 30_3498ba968b4543449e5f42fb9a5622c2.jpg
+validation : 88. dentthumb1.jpg
+validation : 9_d6d6beeea7f34bcf82f155a45e3a98d7.jpg
+validation : damage1142.jpg
+validation : 33.jpg
+validation : 362. paintless.jpg
+validation : 157. 091.jpg
+validation : damage954.jpg
+validation : 98. 06-1-17-2542-2-1.jpg
+validation : 6.jpg
+validation : 71. shutterstock_1106281790.jpg
+validation : 121. toyota_corrola_bumper_before_13612216371.19125105.jpg
+validation : 37. scuffs-website-photos-info-0352.jpg
+validation : 6. fgbk657hqdlx9x7.large.jpg
+validation : 7. fgbk657hqdlx9x7.large.jpg
+validation : 65. scratch-removal.jpg
+validation : 41. odyssey-side-scratches.jpg
+validation : 59. maxresdefault.jpg
+validation : 10. how_to_fix_car_scratches.jpg
+validation : 2. carscratch.jpg
+validation : 45. deep+scratch+with+dent.jpg
+validation : 55. car-with-scrathces.jpg
+validation : 17. scratch-2.jpg
+validation : 27. light+scratch.jpg
+validation : 63. scratch-removal.jpeg
+validation : 0089.JPEG
+validation : 0034 (2).JPEG
+validation : 207. main-qimg-7dcd95ff838fd6c04240d03bf16e0484-38440.jpg
+validation : 130. chrysler-300-door-damage-1024x683.jpg
+validation : 2. maxresdefault(1).jpg
+validation : damage1151(1).jpg
+validation : damage1325.jpg
+validation : 0075.jpeg
+validation : 0188.JPEG
+validation : 0265.JPEG
+validation : 0159.JPEG
+validation : b2da7eddf8dbe9c593bd0d6e224730ba1cb8e1bf.jpg
+validation : J4YRKC.jpg
+validation : dust_back_car_light_accident_450w_458370916.jpg
+validation : images (1).jpeg
+validation : 0474.JPEG
+validation : 0155.JPEG
+validation : 96. side_20window_20damage.jpg
+validation : 1521089197200_G131H4S76.1_1.jpg
+validation : 5. depositphotos_7921406_s-2015.jpg
+validation : depositphotos_5411734_stock_photo_broken_car_windscreen.jpg
+validation : 0_MPM_AIRPORT_PARKING_SMASH_AND_GRAB_THIEF_1_1024x680.jpg
+validation : 5186219_stock_photo_broken_windscreen.jpg
+validation : 11. hail-storm-damaged-windshield.jpg
+validation : kırık_cam.jpg
+validation : 0081.JPEG
+validation : 0101.JPEG
+validation : 0090.JPEG
+validation : 0011.JPEG
+validation : 0555.JPEG
+validation : 187550125.jpg
+validation : 219. stock-photo-broken-car-headlight-63892840.jpg
+validation : 254. broken-front-right-car-headlight-got-accident-close-up-74782069.jpg
+validation : 126. stock-photo-closeup-of-broken-head-lamp-of-a-vehicle-in-an-road-accident-1091864618.jpg
+validation : KBC3GM.jpg
+validation : 282. dff0wao.jpg
+validation : 500_F_211008666_PL9R4092iWDIDkh5cwY2pJqCsBNmvGFA.jpg
+validation : broken_car_headlight_pierced_battle_automotive_headlamp_40921718.jpg
+validation : 742. headlight-lens-cover-broken-cracked.jpg
+validation : 0265.jpg
+validation : 0261.jpg
+validation : 0301.jpg
+validation : 0317.jpg
+validation : 0166.jpg
+validation : 0004.jpg
+validation : 0219.jpg
+validation : 0190.jpg
+validation : 0226.jpg
+validation : 0157.jpg
+validation : 0119.jpg
+validation : 0284.jpg
+validation : 0324.jpg
+validation : 0096.jpg
+validation : damage785.jpg
+validation : damage744.jpg
+validation : damage977.jpg
+validation : damage740.jpg
+validation : damage1273.jpg
+validation : damage1270.jpg
+validation : damage1160.jpg
+validation : damage1029.jpg
+validation : damage1228.jpg
+validation : damage1239.jpg
+validation : damage937.jpg
+validation : damage1357.jpg
+validation : damage856.jpg
+validation : damage1222.jpg
+validation : damage1022.jpg
+validation : damage868.jpg
+validation : damage869.jpg
+validation : damage921.jpg
+validation : damage935.jpg
+validation : damage851.jpg
+validation : damage879.jpg
+validation : damage1230.jpg
+validation : damage809.jpg
+validation : damage771.jpg
+validation : damage1130.jpg
+validation : damage945.jpg
+validation : damage1287.jpg
+validation : damage579.jpg
+validation : 11. car-bumper-dent.jpg
+validation : damage152.jpg
+validation : 21. imag0019_zps28f1f82d.jpg
+validation : 56. car-dent.jpg
+validation : 18_97a0001fd1a54da4b05c54829d4ebf10.jpg
+validation : 30_3498ba968b4543449e5f42fb9a5622c2.jpg
+validation : 88. dentthumb1.jpg
+validation : 9_d6d6beeea7f34bcf82f155a45e3a98d7.jpg
+validation : damage1142.jpg
+validation : 33.jpg
+validation : 362. paintless.jpg
+validation : 157. 091.jpg
+validation : damage954.jpg
+validation : 98. 06-1-17-2542-2-1.jpg
+validation : 6.jpg
+validation : 71. shutterstock_1106281790.jpg
+validation : 121. toyota_corrola_bumper_before_13612216371.19125105.jpg
+validation : 37. scuffs-website-photos-info-0352.jpg
+validation : 6. fgbk657hqdlx9x7.large.jpg
+validation : 7. fgbk657hqdlx9x7.large.jpg
+validation : 65. scratch-removal.jpg
+validation : 41. odyssey-side-scratches.jpg
+validation : 59. maxresdefault.jpg
+validation : 10. how_to_fix_car_scratches.jpg
+validation : 2. carscratch.jpg
+validation : 45. deep+scratch+with+dent.jpg
+validation : 55. car-with-scrathces.jpg
+validation : 17. scratch-2.jpg
+validation : 27. light+scratch.jpg
+validation : 63. scratch-removal.jpeg
+validation : 0089.JPEG
+validation : 0034 (2).JPEG
+validation : 207. main-qimg-7dcd95ff838fd6c04240d03bf16e0484-38440.jpg
+validation : 130. chrysler-300-door-damage-1024x683.jpg
+validation : 2. maxresdefault(1).jpg
+validation : damage1151(1).jpg
+validation : damage1325.jpg
+validation : 0075.jpeg
+validation : 0188.JPEG
+validation : 0265.JPEG
+validation : 0159.JPEG
+validation : b2da7eddf8dbe9c593bd0d6e224730ba1cb8e1bf.jpg
+validation : J4YRKC.jpg
+validation : dust_back_car_light_accident_450w_458370916.jpg
+validation : images (1).jpeg
+validation : 0474.JPEG
+validation : 0155.JPEG
