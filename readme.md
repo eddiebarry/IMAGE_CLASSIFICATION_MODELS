@@ -1,9 +1,13 @@
-# mobile_nets v1.0_224
 
-##### Hyperparameters :
+## Dataset Description
 
-
-learning rate : 0.01
-retraining steps : 4000
-test accuracy = 0.88%
-
+Classes           | Train Size    | Valid Size
+-------------     | ------------- | --------
+Bumper Dent       |  150          | 30
+Scratch           |  112          | 22
+Door dent         |  146          | 25
+Glass Shatter     |  104          | 25
+Head-lamp Broken   | 107          | 20
+Tail-lamp Broken   | 39           | 11
+Smashed            | 256          | 30
+No Damage          | 949          | 225
